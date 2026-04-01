@@ -29,7 +29,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'IEEE IAS PES ITSIC SBJC — Power Core',
+  title: 'IEEE IAS PES ISTIC SBJC — Power Core',
   description: 'Student Branch Joint Chapter — Power Systems Division. Web portal for Borj Cedria Node.',
 }
 

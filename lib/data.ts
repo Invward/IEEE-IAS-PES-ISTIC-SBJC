@@ -85,6 +85,30 @@ export const EVENTS = [
     upcoming: false,
     image: '/events/RIT3.jpg',
   },
+  {
+    month: 'MAR', day: '15',
+    title: 'Energy for All: From Industry to Community',
+    desc: 'The IEEE IAS–PES ISTIC Student Branch Joint Chapter launched its “Energy for All: From Industry to Community” Bootcamp with an introductory online session on the fundamentals of renewable energy, highlighting its importance in building a sustainable and accessible energy future for industries and communities.The session was delivered by Uthman Akinyemi, a final-year Electronic & Electrical Engineering student at Ladoke Akintola University of Technology, specializing in power systems and renewable energy. Drawing from his experience at Egbin Power Plant and his leadership within the IEEE Power & Energy Society, he provided key insights into renewable technologies and modern power systems.Attendees gained foundational knowledge of clean energy solutions and their role in the global energy transition, setting the stage for deeper exploration throughout the bootcamp.',
+    tags: ['COMPLETED', 'BOOTCAMP', 'IAS', 'PES'],
+    upcoming: false,
+    image: '/events/sbtc1.jpg',
+  },
+  {
+    month: 'MAR', day: '16',
+    title: 'Energy for All: From Industry to Community',
+    desc: 'The IEEE IAS–PES ISTIC Student Branch Joint Chapter continued its “Energy for All: From Industry to Community” Bootcamp with a second online session focused on industrial applications of renewable energy, highlighting how sustainable solutions are implemented in real-world industrial settings.The session was delivered by Louay Sahbani, an electrical engineer specialized in advanced electrical systems and smart grids, with experience in IEEE leadership and industrial energy solutions. He provided insights into key topics such as solar integration in factories, smart grids, energy efficiency, and industrial decarbonization.Attendees gained practical understanding of how clean energy technologies are transforming modern industries and contributing to a more sustainable energy transition.',
+    tags: ['COMPLETED', 'BOOTCAMP', 'IAS', 'PES'],
+    upcoming: false,
+    image: '/events/sbtc2.jpg',
+  },
+  {
+    month: 'APR', day: '11',
+    title: 'Sustainable Power And Renewable advancement Congress',
+    desc: 'The IEEE ISTIC Student Branch is hosting SPARC 2026, an upcoming event designed to connect ideas with real-world impact in sustainable energy. ⚡SPARC 2026 will bring together talents, experts, and companies to drive innovation through high-level technical challenges, interactive booths and exhibitions, industrial visits, and hands-on workshops. Attendees will gain first-hand experience and insight into the future of energy and engineering.Registration is open via this link: https://forms.gle/sgzWuKvfizsSsdMaA .This event is the perfect opportunity to explore, learn, and contribute to sustainable energy solutions while engaging with industry leaders and emerging technologies.',
+    tags: ['UPCOMING', 'CONGRESS', 'IAS', 'PES'],
+    upcoming: true,
+    image: '/events/sparc.jpg',
+  },
 ]
 
 export const TEAM = [

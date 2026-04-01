@@ -72,7 +72,7 @@ export default function Footer() {
                         {[
                             { label: 'LI', href: 'https://www.linkedin.com/company/ieee-istic-ias-pes-student-branch-joint-chapter?trk=public_profile_volunteering-position_profile-section-card_subtitle-click', title: 'LinkedIn' },
                             { label: 'FB', href: 'https://www.facebook.com/ieeeiaspesisticsbjc/', title: 'Facebook' },
-                            { label: 'IG', href: 'www.instagram.com/ieee_istic_ias_pes_sbjc/', title: 'Instagram' },
+                            { label: 'IG', href: 'https://www.instagram.com/ieee_istic_ias_pes_sbjc/', title: 'Instagram' },
                         ].map(s => (
                             <a key={s.label} href={s.href} title={s.title} style={{
                                 width: 30, height: 30,
